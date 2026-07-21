@@ -21,8 +21,6 @@
   <a href="#真实案例ai-builders-解读-02">查看真实案例</a>
   &nbsp;·&nbsp;
   <a href="#安装">安装</a>
-  &nbsp;·&nbsp;
-  <a href="#关于创作者">Elisedai在创造</a>
 </p>
 
 </div>
@@ -192,26 +190,10 @@ https://github.com/Elisedai1013/elisedai-personal-style-ppt-skill/tree/main/skil
 
 如果运行环境没有腾讯体，Skill 会建议使用 Source Han Sans SC 或 Noto Sans CJK SC，并在交付时说明字体替换。字体存在于本机也不等于已经嵌入 PPTX；需要通过最终文件结构和桌面 PowerPoint 再次确认。
 
-## 关于创作者
-
-<table>
-  <tr>
-    <td width="230" align="center">
-      <img src="assets/wechat-channels-elisedai-qr.jpg" alt="微信视频号 Elisedai在创造 二维码" width="190">
-    </td>
-    <td>
-      <h3>Elisedai在创造</h3>
-      <p>关注全球 AI Builders，分享我的思考，以及正在创造的产品与工具。</p>
-      <p><strong>扫码关注微信视频号 · 看 AI-native PPT 如何服务真正的表达</strong></p>
-    </td>
-  </tr>
-</table>
-
 <details>
 <summary><strong>仓库结构</strong></summary>
 
 ```text
-assets/                                      # README 创作者素材
 examples/episode-02/                         # 第二期真实 PPT 示例
 skills/elisedai-personal-style-ppt/
 ├── SKILL.md                                 # 触发条件、工作流与非协商规则
@@ -241,4 +223,3 @@ skills/elisedai-personal-style-ppt/
 <div align="center">
   <sub>EliseDai Personal Style PPT · Make every slide carry one idea.</sub>
 </div>
-
