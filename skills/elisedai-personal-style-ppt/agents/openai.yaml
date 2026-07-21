@@ -1,0 +1,5 @@
+interface:
+  display_name: "EliseDai 个人风格 PPT"
+  short_description: "用黑白鲜曜蓝视觉语言创建 EliseDai 风格的 AI-native 演示文稿"
+  brand_color: "#276EF1"
+  default_prompt: "使用 $elisedai-personal-style-ppt 创建文字主导、黑白鲜曜蓝、截图融合且视觉形式丰富的 EliseDai AI-native 演示文稿，并运行建议型视觉 Hook。"
